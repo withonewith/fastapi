@@ -76,4 +76,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# 파일
+__pycache__/
+
 # End of https://www.toptal.com/developers/gitignore/api/react,macos,windows
